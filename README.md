@@ -1,4 +1,4 @@
-# Hachintine-social-media-platform
+# Hackintine-social-media-platform
 
 Name : Pulkit Midha 
 
